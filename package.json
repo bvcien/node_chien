@@ -1,0 +1,19 @@
+{
+  "name": "node_chien",
+  "version": "1.0.0",
+  "main": "conn.js",
+  "scripts": {
+    "start": "nodemon blog/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.1.7"
+  }
+}
